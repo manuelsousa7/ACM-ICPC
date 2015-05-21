@@ -1,3 +1,4 @@
+//Amalgamated Artichokes - Manuel Sousa - C++
 #include <iostream>
 #include <tgmath.h>
 #include <iomanip>
